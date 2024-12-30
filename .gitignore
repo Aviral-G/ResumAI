@@ -1,0 +1,37 @@
+# Ignore environment variables
+myenv/
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore data files containing personal information
+AG_Resume.tex
+resume.tex
+job_description.txt
+job_experience.json
+resume_projects.json
+updated_jobs.json
+updated_projects.json
+
+# Ignore LaTeX output files
+job_bullets.tex
+project_bullets.tex
+AG_Resume_PDF_File/
+
+# Ignore testing files
+auto_resume.py
+job_reqs.txt
+job_scrape.py
+jsonTest.py
+pdf_compile.py
+regex_test.py
+resume_chat.py
+tempCodeRunnerFile.py
+
+# IDE Specific files
+.vscode/
+.idea/
