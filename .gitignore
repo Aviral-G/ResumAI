@@ -35,3 +35,6 @@ tempCodeRunnerFile.py
 # IDE Specific files
 .vscode/
 .idea/
+
+# Mac Specific files
+.DS_Store
