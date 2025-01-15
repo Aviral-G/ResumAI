@@ -1,6 +1,6 @@
 # ResumeAI
 
-**ResumeAI** is a Python-based automated resume refinement system that leverages OpenAI’s GPT-4o to tailor your resume's bullet points to better align with specific job descriptions. The system uses JSON data of your job experiences and projects, refines the bullet points using AI, converts the data into LaTeX format, before compiling it into a polished PDF resume.
+**ResumeAI** is a Python-based automated resume refinement system that leverages OpenAI’s GPT-4o to tailor your resume's bullet points to better align with specific job descriptions. The system uses the principles of RAG by retreiving resume bullet points stored in a JSON format, augmenting them with OpenAI's API for customization, and then converting the new bullets into LaTeX format and compiling into a polished PDF resume.
 
 ## Table of Contents
 
